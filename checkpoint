@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/anshul/Documents/projects/cats_dogs/dogsvscats-0.001-6conv-basic-video.model"
+all_model_checkpoint_paths: "/home/anshul/Documents/projects/cats_dogs/dogsvscats-0.001-6conv-basic-video.model"
